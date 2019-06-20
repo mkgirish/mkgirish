@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_toolbar_bg">#FF1073B9</color>
+    <color name="common_toolbar_text">#ffffff</color>
+    <color name="common_bg">#eeeeee</color>
+    <color name="common_dialog_bg">#ffffff</color>
+    <color name="calendar_button_bg">#FFF3F3F3</color>
+    <color name="common_price">#FF2ECC71</color>
+    <color name="common_link">#FF1073B9</color>
+    <color name="common_content_title_bg">#1fb574</color>
+    <color name="common_content_title_bg_focused">#25db8c</color>
+    <color name="common_content_title_bg_pressed">#188f5b</color>
+    <color name="common_content_title_text">#ffffff</color>
+    <color name="common_title_text">#FF0C0C0C</color>
+    <color name="common_subtitle_text">#999999</color>
+    <color name="common_button_disabled">#9a9a9a</color>
+
+    <color name="common_blue_text">#FF1073B9</color>
+    <color name="common_text">#FF333333</color>
+    <color name="common_red">#ff4d4d</color>
+    <color name="common_bright_red">#ff0000</color>
+    <color name="common_dark_red">#ffeb4c4c</color>
+    <color name="common_green">#1fb575</color>
+    <color name="common_dark_green">#ff1b9d65</color>
+    <color name="common_blue">#FF1073B9</color>
+    <color name="common_dark_blue">#008fb6</color>
+    <color name="common_divider">#dedede</color>
+
+    <color name="categories_background">#e8ece8</color>
+    <color name="categories_unselected_item_text_color">#666666</color>
+    <color name="categories_selected_item_text_color">#07ae66</color>
+    <color name="saving_color">#222222</color>
+
+    <color name="distance_background_color">#6d6d6d</color>
+    <color name="step_circle_color_available">#FF2ECC71</color>
+    <color name="step_circle_color_unavailable">#FF333333</color>
+    <color name="border_color">#dddddd</color>
+
+    <color name="calendar_disable_day_background">#FFF3F3F3</color>
+    <color name="calendar_out_of_month_day">#FFF3F3F3</color>
+    <color name="line">#dddddd</color>
+    <color name="common_light_gray">#FFF5F5F5</color>
+    <color name="common_bg_white">#FFFFFF</color>
+    <color name="cart_price_color_green">#FF2ECC71</color>
+    <color name="tour_details_bg_gray">#40D8D8D8</color>
+    <color name="cart_month_bg_color">#FFF59231</color>
+    <color name="cart_usd_color">#FF0C0C0C</color>
+    <color name="tour_details_done_color">#FF2ECC71</color>
+    <color name="current_total_text_color">#FF333333</color>
+    <color name="apply_text_color">#FFFFFFFF</color>
+    <color name="cart_price_text_old_color">#000000</color>
+    <color name="colorPrimaryDark">#FF1073B9</color>
+    <color name="colorPrimary">#FF1073B9</color>
+    <color name="button_title_bg">#ffffff</color>
+    <color name="colorAccent">#FF1073B9</color>
+    <color name="common_color">#40FFFFFF</color>
+    <color name="name_color">#FF979797</color>
+    <color name="background_tab_pressed_color">#186397</color>
+    <color name="bottom_nav_col">#40D8D8D8</color>
+    <color name="line_seperator_col">#77979797</color>
+    <color name="common_text_light">#FF2A2A2A</color>
+    <color name="common_text_dark_blue">#FF0C3C5D</color>
+    <color name="cal_border_col">#55979797</color>
+    <color name="ticket_tourgrade_bg_col">#80D8D8D8</color>
+    <color name="coupon_details_color">#FF2ECC71</color>
+</resources>

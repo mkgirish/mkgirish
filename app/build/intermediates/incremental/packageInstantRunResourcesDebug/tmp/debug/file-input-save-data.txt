@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Mar 12 10:36:23 IST 2019
+1.base=C\:\\project\\BackbaseCodeTest\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=cities.json
+0.set=ASSET
+0.base=C\:\\project\\BackbaseCodeTest\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=aboutInfo.json
